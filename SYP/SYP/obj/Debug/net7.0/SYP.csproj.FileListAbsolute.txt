@@ -1,0 +1,15 @@
+/Users/denniszhao/Documents/Junk/FileManager-1/SYP/SYP/bin/Debug/net7.0/SYP
+/Users/denniszhao/Documents/Junk/FileManager-1/SYP/SYP/bin/Debug/net7.0/SYP.deps.json
+/Users/denniszhao/Documents/Junk/FileManager-1/SYP/SYP/bin/Debug/net7.0/SYP.runtimeconfig.json
+/Users/denniszhao/Documents/Junk/FileManager-1/SYP/SYP/bin/Debug/net7.0/SYP.dll
+/Users/denniszhao/Documents/Junk/FileManager-1/SYP/SYP/bin/Debug/net7.0/SYP.pdb
+/Users/denniszhao/Documents/Junk/FileManager-1/SYP/SYP/obj/Debug/net7.0/SYP.csproj.AssemblyReference.cache
+/Users/denniszhao/Documents/Junk/FileManager-1/SYP/SYP/obj/Debug/net7.0/SYP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denniszhao/Documents/Junk/FileManager-1/SYP/SYP/obj/Debug/net7.0/SYP.AssemblyInfoInputs.cache
+/Users/denniszhao/Documents/Junk/FileManager-1/SYP/SYP/obj/Debug/net7.0/SYP.AssemblyInfo.cs
+/Users/denniszhao/Documents/Junk/FileManager-1/SYP/SYP/obj/Debug/net7.0/SYP.csproj.CoreCompileInputs.cache
+/Users/denniszhao/Documents/Junk/FileManager-1/SYP/SYP/obj/Debug/net7.0/SYP.dll
+/Users/denniszhao/Documents/Junk/FileManager-1/SYP/SYP/obj/Debug/net7.0/refint/SYP.dll
+/Users/denniszhao/Documents/Junk/FileManager-1/SYP/SYP/obj/Debug/net7.0/SYP.pdb
+/Users/denniszhao/Documents/Junk/FileManager-1/SYP/SYP/obj/Debug/net7.0/SYP.genruntimeconfig.cache
+/Users/denniszhao/Documents/Junk/FileManager-1/SYP/SYP/obj/Debug/net7.0/ref/SYP.dll
